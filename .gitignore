@@ -1,59 +1,24 @@
-# Operating System Files
+# General
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-*~
+*.tmp
+*.log
+*.bak
+~$*
 
-# Editor and IDE Files
+# Editor folders
 .vscode/
 .idea/
-*.swp
-*.swo
-*.bak
-*~
+.obsidian/
+.history/
 
-# Temporary Files
-*.tmp
-*.temp
-/tmp/
-
-# Build and Output Files
+# Build outputs
+dist/
+output/
+export/
 *.pdf
-*.html
-/dist/
-/build/
-/out/
+*.docx
+*.zip
 
-# Logs
-*.log
-logs/
-
-# Environment Files
-.env
-.env.local
-
-# Node.js (if using tools)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-package-lock.json
-yarn.lock
-
-# Python (if using tools)
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-ENV/
-env/
-
-# Backup Files
-*.backup
-backup/
+# System
+desktop.ini
