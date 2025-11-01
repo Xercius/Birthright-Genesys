@@ -17,6 +17,20 @@ This repository is currently in the initial setup phase. Future commits will add
 - Reference materials and assets
 - Tools for content management
 
+---
+
+## AI Collaboration Guidelines
+This repository uses GitHub Copilot and ChatGPT for structured document generation and conversion assistance.  
+All AI interactions follow the standards defined in [`.github/copilot-instructions.md`](.github/copilot-instructions.md).
+
+**Purpose:**  
+Ensure consistent tone, formatting, and adherence to Genesys design principles while converting AD&D Birthright materials.  
+
+**Reminder:**  
+AI output must never reproduce copyrighted AD&D text—only original rewrites and system conversions.
+
+---
+
 ## License
 
 This work is licensed under [CC BY-NC-SA 4.0](LICENSE) (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International).
